@@ -7,13 +7,13 @@ The tech stack is:
 - HTML5
 - CSS3
 - Flexbox
-- -Grid
+- css Grid
 - tailwind css
 - JavaScript
 - React
 - React Hooks
 - Next.js
-- Rest API
+- Rest API (TMDB API)
 
 #### Author
 
