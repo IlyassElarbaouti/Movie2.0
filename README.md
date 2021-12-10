@@ -15,6 +15,7 @@ The tech stack is:
 - Next.js
 - Rest API (TMDB API)
 - Mobile first
+- server side rendering
 
 #### Author
 
