@@ -14,6 +14,7 @@ The tech stack is:
 - React Hooks
 - Next.js
 - Rest API (TMDB API)
+- Mobile first
 
 #### Author
 
