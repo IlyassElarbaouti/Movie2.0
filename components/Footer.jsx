@@ -10,7 +10,12 @@ function Footer() {
       >
         Ilyass El Arbaouti
       </a>
-      <a href="" target="_blank" className="hover:text-white" rel="noreferrer">
+      <a
+        href="https://github.com/IlyassElarbaouti/Movie2.0"
+        target="_blank"
+        className="hover:text-white"
+        rel="noreferrer"
+      >
         <FolderIcon className="h-7" />
       </a>
     </div>
